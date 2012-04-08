@@ -55,7 +55,7 @@
 		<seqName><![CDATA[Untitled0]]></seqName>
 		<comment><![CDATA[New VSQ File]]></comment>
 		<resolution>480</resolution>
-		<preMeasure>4</preMeasure>
+		<preMeasure>1</preMeasure>
 		<timeSig>
 			<posMes>0</posMes>
 			<nume>4</nume>
@@ -71,8 +71,8 @@
 		<trackName><![CDATA[Track]]></trackName>
 		<comment><![CDATA[Track]]></comment>
 		<musicalPart>
-			<posTick>7680</posTick>
-			<playTime>61440</playTime>
+			<posTick>1920</posTick>
+			<playTime>5760</playTime>
 			<partName><![CDATA[NewPart]]></partName>
 			<comment><![CDATA[New Musical Part]]></comment>
 			<stylePlugin>
@@ -95,8 +95,8 @@
 				<vPC>0</vPC>
 			</singer>
 			<note>
-				<posTick>0</posTick>
-				<durTick>480</durTick>
+				<posTick>120</posTick>
+				<durTick>120</durTick>
 				<noteNum>66</noteNum>
 				<velocity>64</velocity>
 				<lyric><![CDATA[ka]]></lyric>
@@ -109,17 +109,36 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">66</attr>
+					<attr id="vibLen">0</attr>
+					<attr id="vibType">0</attr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>240</posTick>
+				<durTick>240</durTick>
+				<noteNum>66</noteNum>
+				<velocity>64</velocity>
+				<lyric><![CDATA[-]]></lyric>
+				<phnms><![CDATA[-]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">100</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>22391</posNrm>
+							<posNrm>0</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>22391</posNrm>
+							<posNrm>0</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -163,13 +182,13 @@
 					<attr id="vibType">13</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>21845</posNrm>
+							<posNrm>22323</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>21845</posNrm>
+							<posNrm>22323</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
@@ -216,10 +235,10 @@
 			<note>
 				<posTick>2640</posTick>
 				<durTick>240</durTick>
-				<noteNum>67</noteNum>
+				<noteNum>66</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[nn]]></lyric>
-				<phnms><![CDATA[a]]></phnms>
+				<lyric><![CDATA[n]]></lyric>
+				<phnms><![CDATA[m']]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -348,7 +367,7 @@
 			</note>
 			<note>
 				<posTick>4800</posTick>
-				<durTick>480</durTick>
+				<durTick>240</durTick>
 				<noteNum>68</noteNum>
 				<velocity>64</velocity>
 				<lyric><![CDATA[yo]]></lyric>
@@ -361,17 +380,48 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">66</attr>
+					<attr id="vibLen">1</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>22391</posNrm>
+							<posNrm>64718</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>22391</posNrm>
+							<posNrm>64718</posNrm>
+							<elv>50</elv>
+						</elem>
+					</seqAttr>
+				</noteStyle>
+			</note>
+			<note>
+				<posTick>5040</posTick>
+				<durTick>600</durTick>
+				<noteNum>68</noteNum>
+				<velocity>64</velocity>
+				<lyric><![CDATA[-]]></lyric>
+				<phnms><![CDATA[-]]></phnms>
+				<noteStyle>
+					<attr id="accent">50</attr>
+					<attr id="bendDep">8</attr>
+					<attr id="bendLen">0</attr>
+					<attr id="decay">50</attr>
+					<attr id="fallPort">0</attr>
+					<attr id="opening">127</attr>
+					<attr id="risePort">0</attr>
+					<attr id="vibLen">100</attr>
+					<attr id="vibType">1</attr>
+					<seqAttr id="vibDep">
+						<elem>
+							<posNrm>0</posNrm>
+							<elv>64</elv>
+						</elem>
+					</seqAttr>
+					<seqAttr id="vibRate">
+						<elem>
+							<posNrm>0</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
