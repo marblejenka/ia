@@ -65,7 +65,7 @@
 		<seqName><![CDATA[Untitled0]]></seqName>
 		<comment><![CDATA[New VSQ File]]></comment>
 		<resolution>480</resolution>
-		<preMeasure>4</preMeasure>
+		<preMeasure>1</preMeasure>
 		<timeSig>
 			<posMes>0</posMes>
 			<nume>4</nume>
@@ -81,7 +81,7 @@
 		<trackName><![CDATA[Track]]></trackName>
 		<comment><![CDATA[Track]]></comment>
 		<musicalPart>
-			<posTick>7680</posTick>
+			<posTick>1920</posTick>
 			<playTime>5760</playTime>
 			<partName><![CDATA[NewPart]]></partName>
 			<comment><![CDATA[New Musical Part]]></comment>
@@ -123,13 +123,13 @@
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>45270</posNrm>
+							<posNrm>45329</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>45270</posNrm>
+							<posNrm>45329</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -235,13 +235,13 @@
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>26242</posNrm>
+							<posNrm>26214</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>26242</posNrm>
+							<posNrm>26214</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -254,7 +254,7 @@
 		<trackName><![CDATA[Track]]></trackName>
 		<comment><![CDATA[Track]]></comment>
 		<musicalPart>
-			<posTick>7680</posTick>
+			<posTick>1920</posTick>
 			<playTime>5760</playTime>
 			<partName><![CDATA[NewPart]]></partName>
 			<comment><![CDATA[New Musical Part]]></comment>
@@ -296,13 +296,13 @@
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>45270</posNrm>
+							<posNrm>45329</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>45270</posNrm>
+							<posNrm>45329</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
